@@ -1,0 +1,8 @@
+#top-row {
+	display: inline-block;
+	border-radius: 8px;
+}
+
+h1 {
+	font-size: 5rem;
+}
